@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./a_wide_rectangular_futuristic_tech_banner.png" alt="Mahnoor - Cloud Computing, DevOps and Cybersecurity" width="100%">
+  <img src="banner.png" alt="Mahnoor - Cloud Computing, DevOps and Cybersecurity" width="100%">
 </div>
 
 <br>
